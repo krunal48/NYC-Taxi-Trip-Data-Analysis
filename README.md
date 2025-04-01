@@ -47,3 +47,52 @@ This repository contains an exploratory data analysis of NYC taxi rides from Mar
 9. **Rides per Borough**
 10. **Daily Ride Count**
 
+
+---
+
+## ⚙️ Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/krunal48/NYC-Taxi-Trip-Data-Analysis
+cd NYC-Taxi-Trip-Data-Analysis
+```
+
+2. **Set up a virtual environment (optional but recommended)**
+```bash
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install pandas
+pip install openpyxl
+pip install seaborn
+pip install matplotlib.pyplot
+```
+
+4. **Open the Jupyter notebook**
+```bash
+jupyter notebook notebooks/Taxi_Trip_Data_Analysis.ipynb
+```
+
+---
+
+
+### 💡 Suggestions
+Feel free to suggest improvements to analysis, visuals, or project structure. Let’s collaborate and make this project even better!
+
+---
+
+## 📃 License
+
+This project is open source under the [MIT License](LICENSE).
+
+---
+
+## 🙋 Contact
+
+Made by [Your Name] – [LinkedIn](https://www.linkedin.com/in/krunal-v-soni/) | [GitHub](https://github.com/krunal48)
+
+Got feedback or ideas? Let’s connect!
