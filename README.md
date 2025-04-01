@@ -85,12 +85,6 @@ Feel free to suggest improvements to analysis, visuals, or project structure. Le
 
 ---
 
-## 📃 License
-
-This project is open source under the [MIT License](LICENSE).
-
----
-
 ## 🙋 Contact
 
 Made by [Your Name] – [LinkedIn](https://www.linkedin.com/in/krunal-v-soni/) | [GitHub](https://github.com/krunal48)
