@@ -48,6 +48,18 @@ This repository contains an exploratory data analysis of NYC taxi rides from Mar
 10. **Daily Ride Count**
 
 
+##🔑 **Insights**
+
+Credit cards were the most preferred payment method.
+
+Tips averaged between 15–20% of the fare.
+
+Most rides were short (~1–3 miles) with 1–2 passengers.
+
+Manhattan dominated both pickup and dropoff activity.
+
+Ride volume peaked during rush hours and weekends.
+
 ---
 
 ## ⚙️ Installation
